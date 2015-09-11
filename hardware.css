@@ -1,0 +1,34 @@
+/*
+    Document   : hardware.css
+    Created on : 2015-09-09 08:24 PM
+    Author     : El-Hacker
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+root {
+    display: block;
+}
+
+  #navbar{
+            text-align:center;
+        }
+          #navbar li{
+            Display:inline;
+            text-decoration:none;
+            padding:20px;
+            width:550px;
+            border-style:solid;
+            background-image:url("http://24.media.tumblr.com/tumblr_mad329xVXu1ruztjzo1_500.gif");
+            background-size:110px;
+        }
+        #navbar a{
+            text-decoration:none;
+            color:blue;
+        }
+body{
+background:url ("http://giffiles.alphacoders.com/262/2627.gif");
+    text-align:center;
+}  
+
