@@ -1,0 +1,42 @@
+/*
+    Document   : html.css
+    Created on : 2015-09-11 05:55 PM
+    Author     : El-Hacker
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+root {
+    display: block;
+}
+
+body{
+    background-image:url("http://i.imgur.com/DfQqM.gif");
+    text-align:center;
+}
+
+p{
+    font-size:30px;
+}
+
+li{
+    font-size:20px;
+}
+
+  #navbar{
+            text-align:center;
+        }
+          #navbar li{
+            Display:inline;
+            text-decoration:none;
+            padding:20px;
+            width:550px;
+            border-style:solid;
+            background-image:url("http://th06.deviantart.net/fs71/200H/i/2015/032/1/f/digital_art__doge_photoshop__mlg_style_by_edki-d8gdl0c.jpg");
+            background-size:110px;
+        }
+        #navbar a{
+            text-decoration:none;
+            color:blue;
+        }

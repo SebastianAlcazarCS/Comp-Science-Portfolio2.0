@@ -1,0 +1,129 @@
+/*
+    Document   : indexstyle.css
+    Created on : 2015-09-01 08:08 PM
+    Author     : El-Hacker
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+ root {
+    display: circle;
+}
+body {
+    background:url(http://media0.giphy.com/media/OvUXjvEOJCYpy/giphy.gif)
+}
+#sebitas {
+    position:absolute;
+    background-color:blue;
+    text-align:center;
+    font-size:100px;
+}
+p {
+    text-align:center;
+    font-family:Cambria;
+    font-size:25px;
+/*     position:relative; */
+/*         float:right; */
+/*     width:47%; */
+}
+
+
+h1 {
+    text-align:center;
+    font-size:50px;
+    
+}
+
+#pic2 {
+    width:300px;
+    height:300px;
+    position:relative;
+    top:300px;
+    left:250px;
+}
+#summit-pic {
+    text-align:center;
+}
+#hawaii {
+    border: 5px orange;
+    position:relative;
+    width:48%;
+    background-size:1400px;
+    height:200px;
+}
+#mexico {
+    border: 5px orange;
+    position:relative;
+    float:right;
+    width:48%;
+    height:100px;
+    bottom:220px;
+    
+}
+
+.htmlcssparagraphs{
+    font-size:12px;
+    
+}
+
+.intro_words{
+    position:relative;
+    right:12px
+    
+}
+
+.container{
+    border: 2px solid black;
+}
+
+#leftcolumn{
+    width:48%;
+    display:inline-block;
+    vertical-align:top;
+}
+ 
+#rightcolumn{
+    width:48%;
+    display:inline-block;
+    vertical-align:top;
+}
+
+.green{
+    border:10px solid green;
+}
+
+.blue {
+    border:10px solid blue;
+}
+
+.orange{
+    border:10px solid orange;
+}
+  
+.red{
+    border:10px solid red;
+}
+
+.name{
+    text-align:center
+    
+}
+
+#navbar{
+            text-align:center;
+        }
+          #navbar li{
+            Display:inline;
+            text-decoration:none;
+            padding:20px;
+            width:550px;
+            border-style:solid;
+            background-image:url("https://mlpforums.com/uploads/profile/photo-14675.gif?_r=1367005726");
+            background-size:110px;
+        }
+        #navbar a{
+            text-decoration:none;
+            color:blue;
+        }
+
+
