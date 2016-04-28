@@ -11,7 +11,7 @@ button.addEventListener("click", doMath);
 function doMath() {
   
     if  (dropDown.value == "+"){
-        num1 = input1.value;
+       num1 = input1.value;
         num2 = input2.value;
         answer = parseInt(num1, 10) + parseInt(num2, 10);
         display.innerHTML = answer;

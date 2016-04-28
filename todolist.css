@@ -1,1 +1,14 @@
-background-color  
+background {
+	color:orange;
+}
+body{
+	background-color: green;
+}
+
+bar{
+	
+}
+
+p{
+	color:red;
+}
